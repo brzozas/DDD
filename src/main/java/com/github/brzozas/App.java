@@ -1,4 +1,4 @@
-package brzozowski.sebastian;
+package com.github.brzozas;
 
 /**
  * Hello world!
